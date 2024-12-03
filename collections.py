@@ -19,3 +19,7 @@ for number in numbers:
 
 print(total)
 print(numbers[2])
+
+dictionary = {
+    'Miracle':"Some definition"
+}
